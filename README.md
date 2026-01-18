@@ -1,4 +1,4 @@
-# test_qa-api  
+# chat-service  
 REST API сервис чатов 
 
 ##### Используемые технологии:
